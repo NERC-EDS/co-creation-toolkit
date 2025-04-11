@@ -39,6 +39,12 @@ We encourage community contributions! You can share your own resources, case stu
 6. Create a pull request into the main branch
 7. Once the updated files are merged into the `main` branch, the website will be updated
 
+## Add new team profiles
+
+> Team profiles showcase the individuals and teams involved in the project, highlighting their roles, expertise, and contributions. 
+
+1. To add a new profile update the `teamProfiles.ts` file in the `src/content/` folder.
+
 ## Markdown Cheat Sheet
 
 Learn how to format documents using markdown https://www.markdownguide.org/cheat-sheet/
