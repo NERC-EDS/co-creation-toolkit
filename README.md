@@ -14,7 +14,7 @@ We encourage community contributions! You can share your own resources, case stu
 
 ## Add new Case Studies
 
-> Case studies showcase real-world examples of how UX (User Experience) methods have been successfully applied to address **environmental data** challenges. Your contributions should include a brief overview of the project, the specific UX methods used (e.g., design sprints, user research, prototyping), the outcomes achieved, and any key takeaways for others working on similar projects. Your case studies will inspire and guide others in the field, demonstrating the power of user-centered design.
+> Case studies showcase real-world examples of how UX (User Experience) methods have been successfully applied to address **environmental data** challenges. Your contributions should include a brief overview of the project, the specific UX methods used (e.g., design sprints, user research, prototyping), the outcomes achieved, and any key takeaways for others working on similar projects. Your case studies will inspire and guide others in the field, demonstrating the power of user design.
 
 1. Create a new markdown file in the [co-creation-toolkit/src/content/case-studies/](https://github.com/NERC-EDS/co-creation-toolkit/tree/main/src/content/case-studies) folder following [this template](https://github.com/NERC-EDS/co-creation-toolkit/blob/main/src/content/templates/case-study.md).
 2. Update the case study description at the top of the page
