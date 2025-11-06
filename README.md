@@ -1,6 +1,6 @@
 # Co-Design Toolkit
 
-This toolkit is designed for anyone involved in creating environmental data services and products, including researchers, developers, designers, and project managers. The toolkit includes a variety of resources, such as case studies showcasing successful UX in environmental data products, templates for UX deliverables, and links to external tools. We are actively seeking your input to understand your needs and ensure the toolkit is tailored to address them effectively..
+This toolkit is designed for anyone involved in creating environmental data services and products, including researchers, developers, designers, and project managers. The toolkit includes a variety of resources, such as case studies showcasing successful UX in environmental data products, templates for UX deliverables, and links to external tools. We are actively seeking your input to understand your needs and ensure the toolkit is tailored to address them effectively.
 
 This toolkit is designed to be accessible to users with varying levels of UX experience. It includes resources for both beginners and experienced practitioners.
 
