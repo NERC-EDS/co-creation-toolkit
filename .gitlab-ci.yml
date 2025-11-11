@@ -3,6 +3,7 @@ pages:
   image: node:lts
 
   before_script:
+    - npm config set registry https://nexus-internal.bgs.ac.uk/repository/npm-all/
     - npm ci
 
   script:
