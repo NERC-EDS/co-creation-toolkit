@@ -10,6 +10,7 @@ const caseStudiesCollection = defineCollection({
     tags: z.array(z.string()),
     organisation: z.string(),
     featured: z.boolean().optional().default(false),
+    author: z.string().optional(),
   }),
 });
 
@@ -37,6 +38,7 @@ const toolkitCollection = defineCollection({
     tags: z.array(z.string()),
     category: z.string(),
     featured: z.boolean().optional().default(false),
+    author: z.string().optional(),
   }),
 });
 

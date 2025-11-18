@@ -39,7 +39,14 @@ const { Content } = await entry.render();
               <div class="tags">
                 {entry.data.tags.map((t: string) => <Pill>{t}</Pill>)}
               </div>
-              <p class="description">{entry.data.description}</p>
+              <div>
+                <p class="description">{entry.data.description}</p>
+                {
+                  entry.data.author && (
+                    <p class="author">By {entry.data.author}</p>
+                  )
+                }
+              </div>
             </div>
           </Hero>
         </div>
@@ -187,6 +194,13 @@ const { Content } = await entry.render();
   .description {
     font-size: var(--text-lg);
     max-width: 54ch;
+  }
+
+  .author {
+    font-size: var(--text-md);
+    font-style: italic;
+    color: var(--gray-400);
+    margin-top: 0.5rem;
   }
 
   .content {
