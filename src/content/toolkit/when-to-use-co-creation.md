@@ -45,10 +45,10 @@ author: Carl Watson (Head of UX, British Geological Survey)
 
 **Involve users when making critical choices about direction.**
 
-* **Feature prioritization** - what to build next
-* **Design alternatives** - which approach to take
-* **Trade-off decisions** - what to optimize for
-* **Pivot or persevere** - major strategic choices
+* **Feature prioritisation** - what to build next
+* **Design alternatives** - which user experience approach to take
+* **Trade-off decisions** - what features to optimise for
+* **Pivot or persevere** - major strategic choices about future direction
 
 **Key benefit**: Makes better decisions by incorporating diverse perspectives.
 
@@ -60,6 +60,50 @@ Not every task requires user involvement. Skip co-creation for:
 * **Legal or security requirements** with no flexibility
 * **Routine maintenance** that doesn't change user experience
 * **Decisions already validated** through previous research
+
+## Balancing User Needs with Technical Constraints
+
+Co-creation often reveals ideal user requirements, but practical constraints like technology choices, available skills, and budgets may limit what's feasible. **Managing this gap transparently is crucial for maintaining trust and delivering value.**
+
+When you choose a specific technical approach—such as a Rapid Application Development (RAD) tool like Esri Experience Builder, or a reusable template—you often gain speed and reduce maintenance costs, but inherit constraints on functionality and user experience.
+
+**The trap:** Heavy customisation to meet every user need can negate the benefits of using the RAD tool in the first place.
+
+### The 80/20 Approach to User Needs
+
+Sometimes the best outcome is delivering **80% of user needs for 20% of the cost** by accepting the constraints of a particular technical approach. This requires:
+
+#### Early Transparency
+
+* Share technical constraints during co-creation sessions
+* Explain the trade-offs between custom builds vs. RAD tools
+* Be upfront about what's achievable within the chosen approach
+
+#### User Buy-In
+
+* Present the value proposition: faster delivery, lower maintenance
+* Involve users in prioritising which 80% of needs to focus on
+* Show how the approach enables future iterations
+
+#### Smart Prioritisation
+
+* Use co-creation to identify which features deliver most value
+* Focus on the critical user journeys that must work well
+* Accept "good enough" on lower-priority features
+
+#### Managing Expectations
+
+* Set clear expectations about UX limitations from the platform
+* Frame it as phase 1, with potential for enhancement later
+* Celebrate the faster time-to-value
+
+### Key Questions to Ask
+
+* **Have we explained the technical approach and its constraints clearly?**
+* **Do users understand the trade-off between speed/cost and customization?**
+* **Have we prioritized features together, focusing on the highest-value 80%?**
+* **Are we being realistic about when customization is worth the investment?**
+* **Have we planned how to iterate based on real usage data?**
 
 ## Quick Decision Framework
 
