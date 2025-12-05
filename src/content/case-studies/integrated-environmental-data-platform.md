@@ -3,7 +3,7 @@ title: Finding the Unknown Users
 publishDate: 2025-11-13 00:00:00
 img: /co-creation-toolkit/assets/case-studies/covers/cs-cover-06.png
 img_alt: Environmental data platform research illustration
-description: Using customer sprint methodology to understand who needs integrated environmental data access and what features would serve them best.
+description: Using the customer sprint methodology to understand who needs integrated environmental data access and what features would serve them best.
 tags:
  - User Research
  - Customer Sprint
@@ -20,9 +20,9 @@ author: Carl Watson (Head of UX, British Geological Survey)
 
 ## The Challenge
 
-**The problem**: UK Environmental data lives in silos across different data centres (e.g. NERC data centres BODC, CEDA, EIDC, NGDC, UK PDC) and while the Environmental Data Service (EDS) could break down these silos, if designed well and with end users involved, we first needed to track down those potential users. 
+UK Environmental data lives in silos across different data centres (e.g. NERC data centres BODC, CEDA, EIDC, NGDC, UK PDC) and while the Environmental Data Service (EDS) could break down these silos, if designed well and with end users involved, we first needed to track down those potential users. 
 
-**The question**: How could a unified environmental data platform help and what should it provide?
+**The question**: Who are the end users and how could a unified environmental data platform help them?
 
 ## Research Approach: Customer Sprint
 
@@ -30,7 +30,7 @@ We adapted Google Ventures' customer sprint methodology to rapidly understand us
 
 ### 1. Identify User Groups via Literature
 
-Started with past user research, collating reports, papers, survey rersults and interview transcripts from past projects that involved users expressing their goals and painpoints with environemntal data or digital services. Through this mini systematic review, with a little help from Google NotebookLM, we identified the following as potentially key user types of the EDS:
+We started with past user research, collating reports, papers, survey rersults and interview transcripts from past projects, these were all public documents that involved users expressing thoughts on various environemntal data services. Through this mini systematic review, and with a little help from Google NotebookLM, we identified the following as potentially key user types of the EDS:
 
 * Environmental Data Analysts
 * Climate Scientists
@@ -43,7 +43,7 @@ Started with past user research, collating reports, papers, survey rersults and 
 
 ### 2. Real-World Analysis via LinkedIn
 
-Armed with a high level understanding of our taget users we tried a range of methods to find real world people that matched our conceptual personas, prioritising  previously unknown contacts without obvious connections through our existing networks. 
+Armed with a high-level understanding of our taget users, we tried a range of methods to find real people that matched our conceptual personas, prioritising  previously unknown contacts without obvious connections through our existing networks. 
 
 * We searched public profiles on various platforms but found most success in the professional profiles on LinkedIn
 * We collectively reviewed dozens of profiles, exploring named projects and publications
@@ -69,14 +69,14 @@ Our three designs prioritised different features:
 * **Integrator Version**: Flexible APIs, multiple formats, customisation
 
 ## What We Learned
+One unexpected discovery was that people who initially appeared to be unknown to us often turned out to be connected to the NERC EDS team through one or two mutial connections. One of our team had found several candidate end user profile with no clear connection, during the screening stages another tyeam member would review the profile on LinkedIn only to find that they actually had a 2nd or 3rd degree connection status according to LinkedIn. On two occasions these 2nd and 3rd degree connections allowed us to contact the mutual connection and arrange for an introduction to be made. We did make us wonder whether the community of environmental data users in the UK was more close-knit network than we initially thought, or do we need to find a way to cast the net even wider?  
 
-### Three Key User Groups
+### Two Key User Groups
+Of those intereviewed we found that they had a lot common but by discussing the landing page mockups, some difference in what they would prioritise in the EDS emerged:
 
-**Academic Researchers** need APIs, analysis-ready datasets, and DOIs for citation, willing to reformat or process useful, well described, data 
+**Academic Researchers** prioritise analysis-ready datasets, DOIs for citation, willing to reformat and process useful well described data 
 
-**Applied Data Scientists** need unified search, cloud-optimised formats, and tool integration
-
-**Remote Sensing Specialists** need integrated EO/ground data and cloud processing environments
+**Applied Data Scientists** value the concept of a unified search, cloud-optimised formats, APIs, and tool integration
 
 ## Actionable Insights
 
